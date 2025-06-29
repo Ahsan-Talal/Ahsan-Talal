@@ -1,9 +1,9 @@
 
 <!-- Animated Header -->
-<h1 align="center">Hi , I'm Ahsan Talal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
+<h1 align="center">Hi , I'm Ahsan Talal </h1>
+<h3 align="center">
 Full Stack Developer
-</p>
+</h3>
 <hr/>
   <!-- Social Links -->
 <div align="center" style="margin: 2rem 0;">
